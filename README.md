@@ -8,3 +8,7 @@
 
 * [📝 Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 
+### Tasks
+
+* [Две задачи HeadHunter на Data Science Week: попробуйте решить сами](https://habrahabr.ru/company/hh/blog/268319/)
+
