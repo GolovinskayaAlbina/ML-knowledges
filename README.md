@@ -15,6 +15,7 @@
 * [🕸️ Resnet](https://github.com/KaimingHe/deep-residual-networks) - This repository contains the original models (ResNet-50, ResNet-101, and ResNet-152)
 * [🕸️ TensorFlow](https://github.com/tensorflow/tensorflow) - TensorFlow™ is an open source software library for numerical computation using data flow graphs. [Site](https://www.tensorflow.org/)
 * [🕸️ CatBoost](https://github.com/catboost/catboost) - CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R [Site](https://catboost.yandex)
+* [🕸️ Sklearn](https://github.com/scikit-learn/scikit-learn) - Scikit-learn is a Python module for machine learning built on top of SciPy and distributed under the 3-Clause BSD license. [Site](http://scikit-learn.org)
 
 ### Tasks
 
