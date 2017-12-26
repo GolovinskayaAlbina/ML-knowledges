@@ -1,5 +1,9 @@
 # ML-knowledges
 
+### Courses
+
+*[🔬Intel AI Academy](https://software.intel.com/en-us/ai-academy?utm_source=habrahabr.ru&utm_medium=Syndication&utm_campaign=AI_academy)
+
 ### Videos
 
 * [SkillFactory](https://www.youtube.com/watch?v=T0Myf8B0Dj8) - Create you first ML model (Pyton, Jupyter, sklearn, RandomForestClassifier, DecisionTreeClassifier)
