@@ -11,6 +11,11 @@
 ### Materials
 
 * [Detect faces using **facenet** in **Python**](http://jekel.me/2017/How-to-detect-faces-using-facenet/)
+* **Хабрахабр**
+  - [Блог **Open Data Science**](https://habrahabr.ru/company/ods/)
+    + [Сверточная сеть на python. Часть 1. Определение основных параметров модели](https://habrahabr.ru/company/ods/blog/344008/)
+    + [Сверточная сеть на python. Часть 2. Вывод формул для обучения модели](https://habrahabr.ru/company/ods/blog/344116/)
+    + [Сверточная сеть на python. Часть 3. Применение модели](https://habrahabr.ru/company/ods/blog/344888/)
 
 ### GitHub sources
 
