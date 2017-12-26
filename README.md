@@ -2,7 +2,7 @@
 
 ### Courses
 
-*[🔬Intel AI Academy](https://software.intel.com/en-us/ai-academy?utm_source=habrahabr.ru&utm_medium=Syndication&utm_campaign=AI_academy) - Explore a wide array of learning materials covering algorithms, machine learning, frameworks, optimization, and more.
+* [🔬Intel AI Academy](https://software.intel.com/en-us/ai-academy?utm_source=habrahabr.ru&utm_medium=Syndication&utm_campaign=AI_academy) - Explore a wide array of learning materials covering algorithms, machine learning, frameworks, optimization, and more.
 
 ### Videos
 
