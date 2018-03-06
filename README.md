@@ -3,6 +3,7 @@
 ### Courses
 
 * [🔬Intel AI Academy](https://software.intel.com/en-us/ai-academy?utm_source=habrahabr.ru&utm_medium=Syndication&utm_campaign=AI_academy) - Explore a wide array of learning materials covering algorithms, machine learning, frameworks, optimization, and more.
+* [🔬Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) - A self-study guide for aspiring machine learning practitioners
 
 ### Videos
 
