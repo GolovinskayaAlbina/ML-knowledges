@@ -18,7 +18,7 @@
     + [Сверточная сеть на python. Часть 1. Определение основных параметров модели](https://habrahabr.ru/company/ods/blog/344008/)
     + [Сверточная сеть на python. Часть 2. Вывод формул для обучения модели](https://habrahabr.ru/company/ods/blog/344116/)
     + [Сверточная сеть на python. Часть 3. Применение модели](https://habrahabr.ru/company/ods/blog/344888/)
-
+* [3 months and you will be guru](https://proglib.io/p/ml-3months/)
 ### GitHub sources
 
 * [📝 Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
