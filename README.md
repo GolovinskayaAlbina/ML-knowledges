@@ -32,4 +32,6 @@
 
 * [Две задачи HeadHunter на Data Science Week: попробуйте решить сами](https://habrahabr.ru/company/hh/blog/268319/)
 
+### Math.
 
+* [📝Математические лекции](http://mathprofi.ru/matematicheskoe_ozhidanie_i_dispersiya_nsv.html)
