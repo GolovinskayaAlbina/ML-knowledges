@@ -4,6 +4,7 @@
 
 * [🔬Intel AI Academy](https://software.intel.com/en-us/ai-academy?utm_source=habrahabr.ru&utm_medium=Syndication&utm_campaign=AI_academy) - Explore a wide array of learning materials covering algorithms, machine learning, frameworks, optimization, and more.
 * [🔬Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) - A self-study guide for aspiring machine learning practitioners
+* [🔬Machine Learning Crash Course from Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) - Artificial Intelligence (AI) will define the next generation of software solutions. Human-like capabilities such as understanding natural language, speech, vision, and making inferences from knowledge will extend software beyond the app.
 
 ### Videos
 
